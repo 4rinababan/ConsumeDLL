@@ -1,0 +1,10 @@
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\bin\Debug\consumeAPI_Dll.exe
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\bin\Debug\consumeAPI_Dll.pdb
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\bin\Debug\API.pdb
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\obj\Debug\consumeAPI_Dll.csprojAssemblyReference.cache
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\obj\Debug\consumeAPI_Dll.csproj.CoreCompileInputs.cache
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\obj\Debug\consumeAPI_Dll.csproj.CopyComplete
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\obj\Debug\consumeAPI_Dll.exe
+C:\Users\mis\source\repos\consumeAPI_Dll\consumeAPI_Dll\obj\Debug\consumeAPI_Dll.pdb
